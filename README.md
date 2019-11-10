@@ -1,3 +1,7 @@
+# SWGOH.HELP.API
+
+Project built with SdtBarbarossa/SWGOH-Help-Api-C-Sharp as base.
+
 # SWGOH-Help-Api-C-Sharp
 
 this is a helper to connect to api.swgoh.help
